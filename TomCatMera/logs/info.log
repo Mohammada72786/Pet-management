@@ -1,0 +1,217 @@
+2022-10-29 15:42:24,818 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-29 15:42:25,271 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-29 15:42:25,480 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-29 15:42:25,481 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-29 15:42:25,481 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-29 15:42:25,489 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-29 15:42:26,024 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-29 15:42:26,862 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-29 15:42:26,974 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-29 15:45:05,828 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-29 15:45:06,292 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-29 15:45:06,485 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-29 15:45:06,486 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-29 15:45:06,487 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-29 15:45:06,495 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-29 15:45:06,939 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-29 15:45:07,728 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-29 15:45:07,834 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-29 15:45:07,932 INFO c.a.u.PetLogger [main] No dog found on given dog code
+2022-10-31 13:00:19,487 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 13:00:19,956 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 13:00:20,157 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 13:00:20,158 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 13:00:20,159 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 13:00:20,165 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 13:00:20,632 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 13:00:21,438 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 13:00:21,554 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 13:01:00,627 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 13:01:01,154 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 13:01:01,367 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 13:01:01,367 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 13:01:01,368 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 13:01:01,384 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 13:01:01,827 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 13:01:02,612 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 13:01:02,717 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 13:03:14,609 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 13:03:15,077 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 13:03:15,275 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 13:03:15,276 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 13:03:15,277 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 13:03:15,286 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 13:03:15,741 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 13:03:16,583 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 13:03:16,712 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 13:57:35,208 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 13:57:35,674 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 13:57:35,856 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 13:57:35,857 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 13:57:35,857 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 13:57:35,863 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 13:57:36,355 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 13:57:37,241 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 13:57:37,353 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 14:09:07,192 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 14:09:07,650 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 14:09:07,842 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 14:09:07,843 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 14:09:07,844 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 14:09:07,852 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 14:09:08,370 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 14:09:09,209 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 14:09:09,312 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 14:11:18,905 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 14:11:19,371 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 14:11:19,575 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 14:11:19,576 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 14:11:19,577 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 14:11:19,584 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 14:11:20,060 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 14:11:20,854 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 14:11:20,958 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 14:12:33,280 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 14:12:33,731 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 14:12:33,923 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 14:12:33,924 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 14:12:33,925 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 14:12:33,931 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 14:12:34,372 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 14:12:35,179 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 14:12:35,277 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-10-31 14:14:35,015 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-10-31 14:14:35,479 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-31 14:14:35,680 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-31 14:14:35,681 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-10-31 14:14:35,682 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-31 14:14:35,689 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-31 14:14:36,144 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-10-31 14:14:36,964 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-10-31 14:14:37,083 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:37:40,236 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:37:40,699 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:37:40,889 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:37:40,889 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:37:40,890 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:37:40,896 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:37:41,345 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:37:42,140 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:37:42,251 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:39:45,736 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:39:46,193 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:39:46,397 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:39:46,398 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:39:46,399 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:39:46,406 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:39:46,871 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:39:47,677 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:39:47,794 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:42:26,846 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:42:27,307 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:42:27,510 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:42:27,511 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:42:27,512 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:42:27,521 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:42:27,978 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:42:28,786 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:42:28,891 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:48:08,826 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:48:09,283 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:48:09,482 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:48:09,483 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:48:09,484 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:48:09,491 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:48:09,945 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:48:10,801 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:48:10,915 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:49:28,796 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:49:29,257 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:49:29,455 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:49:29,455 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:49:29,456 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:49:29,463 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:49:29,923 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:49:30,747 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:49:30,852 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:53:04,405 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:53:04,866 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:53:05,057 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:53:05,057 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:53:05,059 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:53:05,065 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:53:05,513 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:53:06,299 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:53:06,398 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:53:57,690 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:53:58,155 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:53:58,355 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:53:58,355 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:53:58,356 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:53:58,362 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:53:58,835 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:53:59,628 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:53:59,736 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:55:27,038 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:55:27,480 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:55:27,669 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:55:27,670 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:55:27,671 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:55:27,677 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:55:28,146 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:55:29,105 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:55:29,207 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 15:59:01,419 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 15:59:02,094 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 15:59:02,316 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 15:59:02,316 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 15:59:02,317 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 15:59:02,322 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 15:59:02,889 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 15:59:03,901 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 15:59:04,068 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 17:30:55,812 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 17:30:56,495 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 17:30:56,740 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 17:30:56,741 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 17:30:56,742 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 17:30:56,752 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 17:30:57,365 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 17:30:58,402 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@24fba488] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 17:30:58,574 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 17:33:23,168 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 17:33:23,631 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 17:33:23,824 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 17:33:23,825 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 17:33:23,826 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 17:33:23,833 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 17:33:24,274 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 17:33:25,079 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 17:33:25,230 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 17:35:43,128 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 17:35:43,581 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 17:35:43,766 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 17:35:43,767 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 17:35:43,768 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 17:35:43,776 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 17:35:44,220 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 17:35:45,026 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 17:35:45,139 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 17:40:30,871 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 17:40:31,318 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 17:40:31,510 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 17:40:31,511 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 17:40:31,513 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 17:40:31,520 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 17:40:31,986 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 17:40:32,771 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 17:40:32,886 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-01 22:33:36,888 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.11.Final
+2022-11-01 22:33:37,845 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-01 22:33:38,156 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-11-01 22:33:38,157 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=****, user=root}
+2022-11-01 22:33:38,157 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-11-01 22:33:38,164 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-11-01 22:33:38,782 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2022-11-01 22:33:39,997 INFO o.h.o.c.access [main] HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1eca3ea7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-01 22:33:40,193 INFO o.h.e.t.j.p.i.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
